@@ -8,3 +8,4 @@
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/01.png)
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/02.png)
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/03.png)
+![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/04.png)
