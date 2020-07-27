@@ -5,4 +5,4 @@
 
 * Sınıflandırma adlı tab dak kısım:
 
-
+![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/01.png)
