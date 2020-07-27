@@ -4,10 +4,15 @@
 
 
 * Sınıflandırma adlı tab dak kısım:
-
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/01.png)
+
+* Doğrusal Regreson adlı tabdaki kısım:
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/02.png)
+
+* Doğrusal Olmayan Regresyon adlı tab daki kısım:
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/03.png)
+
+* Eğer veri setimizin bağımlı değişkeni bir kategorik değişkense,Sınıflandırma adlı tab'a tıklıyoruz,ilk önce -Lütfen Dikkat- adlı butona tıklıyoruz,ekranda gözüken uyarıya göre veri setimizi düzenliyoruz:
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/04.png)
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/05.png)
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/06.png)
