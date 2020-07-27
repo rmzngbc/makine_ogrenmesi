@@ -14,7 +14,15 @@
 
 * Eğer veri setimizin bağımlı değişkeni bir kategorik değişkense,Sınıflandırma adlı tab'a tıklıyoruz,ilk önce -Lütfen Dikkat- adlı butona tıklıyoruz,ekranda gözüken uyarıya göre veri setimizi düzenliyoruz:
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/04.png)
+
+* Sonra -Lütfen veri setini seçiniz- adlı butona tıkladıktan sonra,istenilen herhangi bir veri setini seçiyoruz(sınıflandırma modeli kurulacağı için veri setindeki bağımlı değişken kategorik değişken olmak zorundadır.)
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/05.png)
+
+* Sonra istenilen herhangi bir makine öğrenmesi alogirtmasını seçip -Moel Kur- adlı butona tıklayıp,başarı skorunu grafikte gözlemleyebiliyoruz veya başak biir makine öğrenmesi algoritmasına göre de model kurarsak başarı skorlarını karşılaştırabiliyoruz:
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/06.png)
+
+* Doğrusal Regresyon adlı tab daki kısımda da aynı işlemleri yapabiliyoruz(doğrusal regresyon modellerinde veri setinin bağımlı değişkeni sürekli değişken olmak zorundadır):
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/07.png)
+
+* Doğrusal Olmayan adlı tab daki kısımda da aynı işlemleri yapabiliyoruz(doğrusal olmayan regresyon modellerinde veri setinin bağımlı değişkeni sürekli değişken olmak zorundadır.)
 ![](https://github.com/rmzngbc/makine_ogrenmesi/blob/master/resimler/08.png)
